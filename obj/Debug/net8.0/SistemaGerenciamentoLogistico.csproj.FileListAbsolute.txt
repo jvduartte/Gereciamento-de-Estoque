@@ -1,0 +1,17 @@
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.AssemblyInfo.cs
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\SistemaGerenciamentoLogistico.exe
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\SistemaGerenciamentoLogistico.deps.json
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\SistemaGerenciamentoLogistico.runtimeconfig.json
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\SistemaGerenciamentoLogistico.dll
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\SistemaGerenciamentoLogistico.pdb
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaG.9943CDD6.Up2Date
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.dll
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\refint\SistemaGerenciamentoLogistico.dll
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.pdb
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\SistemaGerenciamentoLogistico.genruntimeconfig.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\ref\SistemaGerenciamentoLogistico.dll

@@ -1,0 +1,5 @@
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\GerenciamentoEstoque.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\GerenciamentoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\GerenciamentoEstoque.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\GerenciamentoEstoque.AssemblyInfo.cs
+C:\Users\Aluno Noite\Documents\GerenciamentoEstoque\obj\Debug\net8.0\GerenciamentoEstoque.csproj.CoreCompileInputs.cache
